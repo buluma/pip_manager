@@ -34,7 +34,7 @@ bracex==2.4
 bs4==0.0.1
 build==0.10.0
 CacheControl==0.13.1
-cachetools==5.0.0
+cachetools
 cachy==0.3.0
 Cerberus==1.3.5
 certifi==2023.7.22
