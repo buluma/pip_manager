@@ -119,9 +119,9 @@ keyring==24.2.0
 lazy-object-proxy==1.9.0
 leather==0.3.4
 lifelogger
-localstack==3.0.0.post4
-localstack-core==2.3.2
-localstack-ext==2.3.2
+localstack
+localstack-core
+localstack-ext
 lockfile==0.12.2
 lxml==4.9.3
 magic-filter==1.0.12
