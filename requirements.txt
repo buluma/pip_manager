@@ -2,12 +2,12 @@ agate==1.9.0
 agate-dbf==0.2.2
 agate-excel==0.2.5
 agate-sql==0.7.0
-aiohttp==3.9.0
+aiohttp==3.9.2
 aiosignal==1.3.1
 annotated-types==0.6.0
 ansible==9.1.0
 ansible-compat==3.0.2
-ansible-core==2.16.2
+ansible-core==2.16.3
 ansible-lint==6.16.2
 anyio==4.0.0
 appnope==0.1.3
@@ -49,7 +49,7 @@ colorama==0.4.6
 colorlog==6.7.0
 commonmark==0.9.1
 cookiecutter==2.4.0
-cryptography==41.0.6
+cryptography==42.0.0
 Cython>0.22.1
 csvkit==1.3.0
 dbfread==2.0.7
@@ -111,7 +111,7 @@ itsdangerous==2.1.2
 jaraco.classes==3.3.0
 jarowinkler==1.2.3
 jedi==0.17.2
-Jinja2==3.1.2
+Jinja2==3.1.3
 jinja2-time==0.2.0
 jmespath==1.0.1
 jsonschema==4.17.3
